@@ -195,10 +195,6 @@ video {
 	align-items: center;
 }
 
-#countdown {
-	color: black;
-	font-size: calc(16px + 16vw);
-}
 
 .bluebg {
 	background: blue;
@@ -229,4 +225,9 @@ video {
 
 .text-center {
 	text-align: center;
+}
+
+#countdown {
+	font-size: calc(16px + 2vw);
+	color: #f1f1f1;
 }
