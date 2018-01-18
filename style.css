@@ -231,3 +231,7 @@ video {
 	font-size: calc(16px + 2vw);
 	color: #f1f1f1;
 }
+
+strike {
+	color: #f1f1f1;
+}
