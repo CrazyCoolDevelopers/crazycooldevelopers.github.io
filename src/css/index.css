@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+}
+
+html, body {
+  margin: 0;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
